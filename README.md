@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) template to use when reporting a [bug in the Next.js repository](https://github.com/vercel/next.js/issues).
+Using the [Next.js](https://nextjs.org/) template recommended when reporting a [bug in the Next.js repository](https://github.com/vercel/next.js/issues).
 
 ## Steps to reproduce 
 - Make sure to delete the /build folder if you have one. 
