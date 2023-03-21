@@ -7,4 +7,4 @@ Using the [Next.js](https://nextjs.org/) template recommended when reporting a [
 - Kill the ```yarn dev``` and re-run it. Re-check `/build/testing/text.txt` - it should be an empty file. /!\ You might need to do this step a couple of times as the issue appears randomly and not necessarily on the second run. 
 
 ## Workaround
-As a workaround for now, we have use `useCache: false` into our Webpack config and this seems to have fixed the issue. Another solution was to delete the `/build` folder between each ```yarn dev```.
+As a workaround for now, we are using `useCache: false` into our Webpack config and this seems to have fixed the issue. Another solution was to delete the `/build` folder between each ```yarn dev```.
